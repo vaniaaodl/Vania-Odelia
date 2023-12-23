@@ -265,6 +265,7 @@ header #menu-bar{
     font-size: 1.1rem;
     color: #666;
     padding: 1rem 0;
+    text-align: justify;
 }
 
 .haikyu .content span{
